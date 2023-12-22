@@ -50,9 +50,18 @@ Project description.
 ## User Stories
 
 ### First-Time User
-1. As a first-time user, I want to 
-2. As a first-time user, I want to 
-3. As a first-time user, I want to 
+1. As a user, I want to create an account so that I can make purchases and track my order history.
+2. As a user, I want to access the e-commerce site on various devices to browse and shop seamlessly.
+3. As a user, I want to search for products by name or description and easily navigate through product categories.
+4. As a user, I want to view detailed information about a product, including images, descriptions, and specifications.
+5. As a user, I want to add products to my shopping cart, edit quantities, and remove items before proceeding to checkout.
+6. As a user, I want a secure and streamlined checkout process to complete my purchase efficiently.
+7. As a user, I want to view my order history to track and review my past purchases.
+8. As a user, I want to manage my account settings, including updating my password and personal information.
+9. As a user, I want the option to reset my password in case I forget it.
+10. As a user, I want to leave reviews for products and view reviews from other users to make informed purchasing decisions.
+11. As a user, I want to add products to a wishlist or favorites list for potential future purchases.
+12. As an admin, I want to manage product listings, including adding new products, updating information, and removing items from the catalog.
 
 ### Returning User
 1. As a returning user, I want to 
